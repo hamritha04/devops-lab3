@@ -1,1 +1,6 @@
-# DevOps Lab Exercise 3 
+# DevOps Lab Exercise 3
+
+
+
+Student B contributed the login module.
+
